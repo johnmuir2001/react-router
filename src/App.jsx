@@ -27,7 +27,7 @@ const App = () => {
       </Routes>
 
       <footer>
-        <h2>This is my footer</h2>
+        <h3>This is my footer</h3>
       </footer>
 
     </BrowserRouter>
